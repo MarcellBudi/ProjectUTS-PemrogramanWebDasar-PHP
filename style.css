@@ -1,0 +1,27 @@
+body {
+    margin: 0;
+    padding: 0;
+    background: -webkit-linear-gradient(bottom, #55ffa2, #a6f77b);
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 555px;
+}
+.container {
+    padding: 0 50px;
+}
+form {
+    margin: 70px auto;
+    margin-bottom: 20px;
+    padding: 10px 30px;
+    width: 40%;
+    border-radius: 20px;
+    box-shadow: 1px 1px 5px black;
+    background-color: white;
+}
+h2 {
+    text-align: center;
+}
+.hasil {
+    margin: auto;
+    width: 40%;
+}
